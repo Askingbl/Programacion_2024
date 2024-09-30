@@ -31,6 +31,7 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -61,27 +62,32 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.EJERCICIO 1 3D.executor": "Run",
-    "Python.Ejercicio 1.executor": "Run",
-    "Python.Ejercicio 2.executor": "Run",
-    "Python.Ejercicio1.executor": "Run",
-    "Python.Ejercicio13D.executor": "Run",
-    "Python.Informacion_personal.executor": "Run",
-    "Python.ejercicio.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/paola/PycharmProjects/PROGRAMAS__/SEMANA_13",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.EJERCICIO 1 3D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio13D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Informacion_personal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/paola/PycharmProjects/PROGRAMAS__/SEMANA_13&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paola\PycharmProjects\PROGRAMAS__\SEMANA 15" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -104,6 +110,7 @@
       <workItem from="1726438986041" duration="3083000" />
       <workItem from="1726442755970" duration="6926000" />
       <workItem from="1727638583449" duration="1590000" />
+      <workItem from="1727655172248" duration="384000" />
     </task>
     <task id="LOCAL-00001" summary="TAREAAA">
       <option name="closed" value="true" />
@@ -177,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727640114570</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Tarea">
+      <option name="closed" value="true" />
+      <created>1727655230144</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727655230144</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

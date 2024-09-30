@@ -25,4 +25,4 @@ if "telefono" not in informacion_personal:
 informacion_personal.pop("edad", None)  # Usamos pop() para eliminar la clave de manera segura
 
 # Imprimir el Diccionario Final
-print("Diccionario final:", informacion_personal)
+print("Datos personales:", informacion_personal)
