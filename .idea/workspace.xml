@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bff0d81-4a0d-475f-8316-7a0a65f5b4de" name="Changes" comment="Tarea" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Askingbl&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Askingbl/Programacion_2024&quot;,
+    &quot;accountId&quot;: &quot;4c17f072-b49a-47d5-83e1-c29479ec964e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2locHIvWPoYZpq4rDzwDgDuXHbJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.EJERCICIO 1 3D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio13D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Informacion_personal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/paola/PycharmProjects/PROGRAMAS__/SEMANA_13&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paola\PycharmProjects\PROGRAMAS__\SEMANA 15" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bff0d81-4a0d-475f-8316-7a0a65f5b4de" name="Changes" comment="" />
+      <created>1725849780387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725849780387</updated>
+      <workItem from="1725849781781" duration="4299000" />
+      <workItem from="1726438893121" duration="23000" />
+      <workItem from="1726438966636" duration="9000" />
+      <workItem from="1726438986041" duration="3083000" />
+      <workItem from="1726442755970" duration="6926000" />
+      <workItem from="1727638583449" duration="1590000" />
+      <workItem from="1727655172248" duration="384000" />
+    </task>
+    <task id="LOCAL-00001" summary="TAREAAA">
+      <option name="closed" value="true" />
+      <created>1725850176085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725850176085</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TAREAAA">
+      <option name="closed" value="true" />
+      <created>1725852726011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725852726011</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TAREAAA">
+      <option name="closed" value="true" />
+      <created>1725852794114</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725852794114</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TAREAA">
+      <option name="closed" value="true" />
+      <created>1725853142982</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725853142982</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tarea: Registro de Temperaturas Diarias">
+      <option name="closed" value="true" />
+      <created>1725853736457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725853736457</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tarea:Registro_de_Temperaturas_Diarias">
+      <option name="closed" value="true" />
+      <created>1726439087659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726439087659</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tarea">
+      <option name="closed" value="true" />
+      <created>1726439605933</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726439605933</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tarea">
+      <option name="closed" value="true" />
+      <created>1726440965187</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726440965187</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarea">
+      <option name="closed" value="true" />
+      <created>1727640114570</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727640114570</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tarea">
+      <option name="closed" value="true" />
+      <created>1727655230144</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727655230144</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TAREAS" />
+    <MESSAGE value="TAREAAA" />
+    <MESSAGE value="TAREAA" />
+    <MESSAGE value="Tarea: Registro de Temperaturas Diarias" />
+    <MESSAGE value="Tarea:Registro_de_Temperaturas_Diarias" />
+    <MESSAGE value="Tarea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PROGRAMAS__$Informacion_personal.coverage" NAME="Informacion_personal Coverage Results" MODIFIED="1727639621517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PROGRAMAS__$Ejercicio1.coverage" NAME="Ejercicio1 Coverage Results" MODIFIED="1726446590982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA_12" />
+    <SUITE FILE_PATH="coverage/PROGRAMAS__$Ejercicio_2.coverage" NAME="Ejercicio 2 Coverage Results" MODIFIED="1726439562290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA_11" />
+    <SUITE FILE_PATH="coverage/PROGRAMAS__$EJERCICIO_1_3D.coverage" NAME="EJERCICIO 1 3D Coverage Results" MODIFIED="1725852553810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA12" />
+    <SUITE FILE_PATH="coverage/PROGRAMAS__$Ejercicio_1.coverage" NAME="Ejercicio 1 Coverage Results" MODIFIED="1726449780115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA_13" />
+    <SUITE FILE_PATH="coverage/PROGRAMAS__$Ejercicio13D.coverage" NAME="Ejercicio13D Coverage Results" MODIFIED="1725853793970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA12" />
+    <SUITE FILE_PATH="coverage/PROGRAMAS__$ejercicio.coverage" NAME="ejercicio Coverage Results" MODIFIED="1726448135266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SEMANA_13" />
+  </component>
+</project>
