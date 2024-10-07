@@ -17,12 +17,12 @@ archivo.close()
 # Modo de apertura: "r" para lectura (read)
 archivo_lectura = open(file_name, "r")
 
-# Método read(): lee todo el contenido del archivo
+# Metodo read(): lee todo el archivo
 contenido_completo = archivo_lectura.read()
 print("Contenido completo usando read():")
 print(contenido_completo)
 
-# Método readline(): lee una línea a la vez
+# Metodo readline(): lee una línea a la vez
 archivo_lectura.seek(0)  # Reiniciamos el cursor al principio del archivo
 linea_1 = archivo_lectura.readline()
 linea_2 = archivo_lectura.readline()
